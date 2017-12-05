@@ -2,27 +2,39 @@
 <instant-run
     abi="armeabi-v7a,armeabi"
     api-level="23"
-    build-mode="COLD"
+    build-mode="FULL"
     density="xxhdpi"
     format="10"
     plugin-version="2.3.3"
-    timestamp="1512438777632"
+    timestamp="1512499170975"
     token="-6611828259583788592"
-    verifier="COLD_SWAP_REQUESTED" >
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="1610" />
+        duration="3000" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="171" />
+        duration="1188" />
     <task
         name="verifier"
-        duration="141" />
+        duration="312" />
 
+    <artifact
+        location="C:\DEV\WORKS\TryThisToday\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\DEV\WORKS\TryThisToday\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\DEV\WORKS\TryThisToday\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\DEV\WORKS\TryThisToday\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+        type="SPLIT" />
     <artifact
         location="C:\DEV\WORKS\TryThisToday\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
         type="SPLIT" />
@@ -30,7 +42,19 @@
         location="C:\DEV\WORKS\TryThisToday\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
         type="SPLIT" />
     <artifact
-        location="C:\DEV\WORKS\TryThisToday\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+        location="C:\DEV\WORKS\TryThisToday\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\DEV\WORKS\TryThisToday\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\DEV\WORKS\TryThisToday\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\DEV\WORKS\TryThisToday\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\DEV\WORKS\TryThisToday\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
         type="SPLIT" />
     <artifact
         location="C:\DEV\WORKS\TryThisToday\app\build\outputs\apk\app-debug.apk"
@@ -38,22 +62,22 @@
 
     <build
         build-mode="FULL"
-        timestamp="1512438549553"
+        timestamp="1512499170975"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\DEV\WORKS\TryThisToday\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
             type="SPLIT" />
         <artifact
-            location="C:\DEV\WORKS\TryThisToday\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
-            type="SPLIT" />
-        <artifact
             location="C:\DEV\WORKS\TryThisToday\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
             type="SPLIT" />
         <artifact
-            location="C:\DEV\WORKS\TryThisToday\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+            location="C:\DEV\WORKS\TryThisToday\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
             type="SPLIT" />
         <artifact
             location="C:\DEV\WORKS\TryThisToday\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\DEV\WORKS\TryThisToday\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
             type="SPLIT" />
         <artifact
             location="C:\DEV\WORKS\TryThisToday\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
@@ -68,27 +92,10 @@
             location="C:\DEV\WORKS\TryThisToday\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
             type="SPLIT" />
         <artifact
-            location="C:\DEV\WORKS\TryThisToday\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
-            type="SPLIT" />
-        <artifact
             location="C:\DEV\WORKS\TryThisToday\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
             type="SPLIT" />
         <artifact
-            location="C:\DEV\WORKS\TryThisToday\app\build\outputs\apk\app-debug.apk"
-            type="SPLIT_MAIN" />
-    </build>
-    <build
-        build-mode="COLD"
-        timestamp="1512438777632"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="C:\DEV\WORKS\TryThisToday\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\DEV\WORKS\TryThisToday\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\DEV\WORKS\TryThisToday\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            location="C:\DEV\WORKS\TryThisToday\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
             type="SPLIT" />
         <artifact
             location="C:\DEV\WORKS\TryThisToday\app\build\outputs\apk\app-debug.apk"

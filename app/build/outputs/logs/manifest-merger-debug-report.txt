@@ -17,15 +17,15 @@ application
 ADDED from C:\DEV\WORKS\TryThisToday\app\src\main\AndroidManifest.xml:5:5-19:19
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\SuyeonKim\.android\build-cache\be86fbca797d10e1b1de3e9a9f18b833a0191e0e\output\AndroidManifest.xml:9:5-20
 MERGED from [com.flurgle:camerakit:0.9.13] C:\Users\SuyeonKim\.android\build-cache\825ac437c63ec16b248a461027d108a578dca62b\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\SuyeonKim\.android\build-cache\ab71208804481c1aec618b8e52657cd4b51f1a21\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-v4:25.1.1] C:\Users\SuyeonKim\.android\build-cache\9a3641143f2e25e7af7ac6b3d89b3eacce146fbd\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\SuyeonKim\.android\build-cache\e4a1c9babdbed5dd20b3f40505b75465d395ac92\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\SuyeonKim\.android\build-cache\1183a79fe25018e4087b9d943fee67b044f987de\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\SuyeonKim\.android\build-cache\e07cd8f24fae52c1b93cea3eb6ce3a7689dac524\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\SuyeonKim\.android\build-cache\f42b1e14d58098e19ff99b5384017aae925d9784\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\SuyeonKim\.android\build-cache\d48a8de1ec5ac127f399e4472b8c4f1475854247\output\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\SuyeonKim\.android\build-cache\393d04315790fa409939e83274a87a9893fd8e98\output\AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:support-compat:25.1.1] C:\Users\SuyeonKim\.android\build-cache\b7b60007b7a413b424f6b53b2ca0afae09774a68\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\SuyeonKim\.android\build-cache\d064d080d170d7bf04084655470f6d67e421af9b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\SuyeonKim\.android\build-cache\67bb748ca1ee053edb4ec428004877b55301f507\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\SuyeonKim\.android\build-cache\2268b9bbe7e227b3d63a7ade93a1eddf7d32b9b5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\SuyeonKim\.android\build-cache\91b094eb31571272accd1d109c537f681104648a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\SuyeonKim\.android\build-cache\624d1b6297a3b3dac8c82ccecabf60784795b2c3\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\SuyeonKim\.android\build-cache\e101ac5ead2435d6a3a15ec3ba0abda7dde7ee7b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\SuyeonKim\.android\build-cache\32f5a1198e1e9937d6e056535ca0ed72b5d87f71\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\SuyeonKim\.android\build-cache\4426983a1072d2ab94783aa06750d7c1b12de0f5\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\SuyeonKim\.android\build-cache\743105587f3cbd4a44a88ac5f7877a7835d19e6d\output\AndroidManifest.xml:29:5-20
 	android:label
 		ADDED from C:\DEV\WORKS\TryThisToday\app\src\main\AndroidManifest.xml:8:9-41
 	android:supportsRtl
@@ -56,17 +56,17 @@ uses-sdk
 INJECTED from C:\DEV\WORKS\TryThisToday\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\SuyeonKim\.android\build-cache\be86fbca797d10e1b1de3e9a9f18b833a0191e0e\output\AndroidManifest.xml:5:5-7:41
 MERGED from [com.flurgle:camerakit:0.9.13] C:\Users\SuyeonKim\.android\build-cache\825ac437c63ec16b248a461027d108a578dca62b\output\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\SuyeonKim\.android\build-cache\ab71208804481c1aec618b8e52657cd4b51f1a21\output\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:25.1.1] C:\Users\SuyeonKim\.android\build-cache\9a3641143f2e25e7af7ac6b3d89b3eacce146fbd\output\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\SuyeonKim\.android\build-cache\e4a1c9babdbed5dd20b3f40505b75465d395ac92\output\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\SuyeonKim\.android\build-cache\1183a79fe25018e4087b9d943fee67b044f987de\output\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\SuyeonKim\.android\build-cache\e07cd8f24fae52c1b93cea3eb6ce3a7689dac524\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\SuyeonKim\.android\build-cache\f42b1e14d58098e19ff99b5384017aae925d9784\output\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\SuyeonKim\.android\build-cache\d48a8de1ec5ac127f399e4472b8c4f1475854247\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\SuyeonKim\.android\build-cache\393d04315790fa409939e83274a87a9893fd8e98\output\AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:support-compat:25.1.1] C:\Users\SuyeonKim\.android\build-cache\b7b60007b7a413b424f6b53b2ca0afae09774a68\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\SuyeonKim\.android\build-cache\d064d080d170d7bf04084655470f6d67e421af9b\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\SuyeonKim\.android\build-cache\67bb748ca1ee053edb4ec428004877b55301f507\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\SuyeonKim\.android\build-cache\2268b9bbe7e227b3d63a7ade93a1eddf7d32b9b5\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\SuyeonKim\.android\build-cache\91b094eb31571272accd1d109c537f681104648a\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\SuyeonKim\.android\build-cache\624d1b6297a3b3dac8c82ccecabf60784795b2c3\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\SuyeonKim\.android\build-cache\e101ac5ead2435d6a3a15ec3ba0abda7dde7ee7b\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\SuyeonKim\.android\build-cache\32f5a1198e1e9937d6e056535ca0ed72b5d87f71\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\SuyeonKim\.android\build-cache\4426983a1072d2ab94783aa06750d7c1b12de0f5\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\SuyeonKim\.android\build-cache\743105587f3cbd4a44a88ac5f7877a7835d19e6d\output\AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:25.1.1] C:\Users\SuyeonKim\.android\build-cache\ab71208804481c1aec618b8e52657cd4b51f1a21\output\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\SuyeonKim\.android\build-cache\d064d080d170d7bf04084655470f6d67e421af9b\output\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
 		INJECTED from C:\DEV\WORKS\TryThisToday\app\src\main\AndroidManifest.xml
 		INJECTED from C:\DEV\WORKS\TryThisToday\app\src\main\AndroidManifest.xml
@@ -103,3 +103,17 @@ ADDED from [com.flurgle:camerakit:0.9.13] C:\Users\SuyeonKim\.android\build-cach
 		ADDED from [com.flurgle:camerakit:0.9.13] C:\Users\SuyeonKim\.android\build-cache\825ac437c63ec16b248a461027d108a578dca62b\output\AndroidManifest.xml:23:9-33
 	android:name
 		ADDED from [com.flurgle:camerakit:0.9.13] C:\Users\SuyeonKim\.android\build-cache\825ac437c63ec16b248a461027d108a578dca62b\output\AndroidManifest.xml:22:9-51
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\SuyeonKim\.android\build-cache\d064d080d170d7bf04084655470f6d67e421af9b\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\SuyeonKim\.android\build-cache\67bb748ca1ee053edb4ec428004877b55301f507\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\SuyeonKim\.android\build-cache\2268b9bbe7e227b3d63a7ade93a1eddf7d32b9b5\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\SuyeonKim\.android\build-cache\91b094eb31571272accd1d109c537f681104648a\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\SuyeonKim\.android\build-cache\624d1b6297a3b3dac8c82ccecabf60784795b2c3\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\SuyeonKim\.android\build-cache\e101ac5ead2435d6a3a15ec3ba0abda7dde7ee7b\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\SuyeonKim\.android\build-cache\32f5a1198e1e9937d6e056535ca0ed72b5d87f71\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\SuyeonKim\.android\build-cache\4426983a1072d2ab94783aa06750d7c1b12de0f5\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\SuyeonKim\.android\build-cache\743105587f3cbd4a44a88ac5f7877a7835d19e6d\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\SuyeonKim\.android\build-cache\d064d080d170d7bf04084655470f6d67e421af9b\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\SuyeonKim\.android\build-cache\d064d080d170d7bf04084655470f6d67e421af9b\output\AndroidManifest.xml:26:9-47
