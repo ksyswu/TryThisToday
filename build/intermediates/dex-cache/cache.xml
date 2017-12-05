@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\DEV\WORKS\TryThisToday\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="94c71d4a3cef6035d3155be7c51b2b5321ca5470">
+        <dex dex="C:\DEV\WORKS\TryThisToday\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_02459272ee57bfe1053039972bc26a3a1bd58c0f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\DEV\WORKS\TryThisToday\app\libs\libandroid_tensorflow_inference_java.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6454951fd82b6c2de1666263e2cd6e593627d878">
+        <dex dex="C:\DEV\WORKS\TryThisToday\app\build\intermediates\transforms\dex\debug\folders\1000\2\libandroid_tensorflow_inference_java_e2c8cf5b0a24d7f6bcc4afe594fa56094892d076\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\DEV\SDK\Android\AndroidSdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\DEV\WORKS\TryThisToday\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_77e72d378a7a1cb421e0ddee0aa7f040f6baa01e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SuyeonKim\.android\build-cache\be86fbca797d10e1b1de3e9a9f18b833a0191e0e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\DEV\WORKS\TryThisToday\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_70253451ddd1ddab7f908ca5b57678f10d7e1701\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\DEV\WORKS\TryThisToday\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\DEV\WORKS\TryThisToday\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_c5eb4a03839d65cc7577fca17fcf771b8bedd366\classes.dex" />
+    </item>
+
+</items>

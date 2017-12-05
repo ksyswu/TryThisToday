@@ -1,0 +1,7 @@
+#Tue Dec 05 10:53:11 KST 2017
+base.0=C\:\\DEV\\WORKS\\TryThisToday\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_02459272ee57bfe1053039972bc26a3a1bd58c0f
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\DEV\\WORKS\\TryThisToday\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c5eb4a03839d65cc7577fca17fcf771b8bedd366\\classes.dex
+base.1=C\:\\DEV\\WORKS\\TryThisToday\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c5eb4a03839d65cc7577fca17fcf771b8bedd366
+file.0=C\:\\DEV\\WORKS\\TryThisToday\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_02459272ee57bfe1053039972bc26a3a1bd58c0f\\classes.dex
